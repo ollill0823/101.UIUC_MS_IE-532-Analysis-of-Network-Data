@@ -1,0 +1,45 @@
+\ Model betweenness_centrality_les_miserables_graph
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+Maximize
+  504 x[Myriel] + 1721 x[Valjean] + 160 x[Tholomyes] + 375 x[Fantine]
+   + 70 x[MmeThenardier] + 253 x[Thenardier] + 98 x[Cosette] + 64 x[Javert]
+   + 75 x[Fauchelevent] + 5 x[Pontmercy] + 33 x[Eponine] + 75 x[MmeBurgon]
+   + 667 x[Gavroche] + 92 x[Gillenormand] + 166 x[MlleGillenormand]
+   + 2 x[MmePontmercy] + 281 x[Marius] + 75 x[Mabeuf] + 15 x[Enjolras]
+   + 7 x[Courfeyrac] + 46 x[Bossuet] + 14 x[Babet]
+Subject To
+ R0: x[Napoleon] + x[Myriel] + x[MlleBaptistine] + x[MmeMagloire]
+   + x[CountessDeLo] + x[Geborand] + x[Champtercier] + x[Cravatte]
+   + x[Count] + x[OldMan] + x[Valjean] + x[Labarre] + x[Marguerite]
+   + x[MmeDeR] + x[Isabeau] + x[Gervais] + x[Listolier] + x[Tholomyes]
+   + x[Fameuil] + x[Blacheville] + x[Favourite] + x[Dahlia] + x[Zephine]
+   + x[Fantine] + x[MmeThenardier] + x[Thenardier] + x[Cosette] + x[Javert]
+   + x[Fauchelevent] + x[Bamatabois] + x[Perpetue] + x[Simplice]
+   + x[Scaufflaire] + x[Woman1] + x[Judge] + x[Champmathieu] + x[Brevet]
+   + x[Chenildieu] + x[Cochepaille] + x[Pontmercy] + x[Boulatruelle]
+   + x[Eponine] + x[Anzelma] + x[Woman2] + x[MotherInnocent] + x[Gribier]
+   + x[MmeBurgon] + x[Jondrette] + x[Gavroche] + x[Gillenormand]
+   + x[Magnon] + x[MlleGillenormand] + x[MmePontmercy] + x[MlleVaubois]
+   + x[LtGillenormand] + x[Marius] + x[BaronessT] + x[Mabeuf] + x[Enjolras]
+   + x[Combeferre] + x[Prouvaire] + x[Feuilly] + x[Courfeyrac] + x[Bahorel]
+   + x[Bossuet] + x[Joly] + x[Grantaire] + x[MotherPlutarch] + x[Gueulemer]
+   + x[Babet] + x[Claquesous] + x[Montparnasse] + x[Toussaint] + x[Child1]
+   + x[Child2] + x[Brujon] + x[MmeHucheloup] = 1
+Bounds
+Binaries
+ x[Napoleon] x[Myriel] x[MlleBaptistine] x[MmeMagloire] x[CountessDeLo]
+ x[Geborand] x[Champtercier] x[Cravatte] x[Count] x[OldMan] x[Valjean]
+ x[Labarre] x[Marguerite] x[MmeDeR] x[Isabeau] x[Gervais] x[Listolier]
+ x[Tholomyes] x[Fameuil] x[Blacheville] x[Favourite] x[Dahlia] x[Zephine]
+ x[Fantine] x[MmeThenardier] x[Thenardier] x[Cosette] x[Javert]
+ x[Fauchelevent] x[Bamatabois] x[Perpetue] x[Simplice] x[Scaufflaire]
+ x[Woman1] x[Judge] x[Champmathieu] x[Brevet] x[Chenildieu] x[Cochepaille]
+ x[Pontmercy] x[Boulatruelle] x[Eponine] x[Anzelma] x[Woman2]
+ x[MotherInnocent] x[Gribier] x[MmeBurgon] x[Jondrette] x[Gavroche]
+ x[Gillenormand] x[Magnon] x[MlleGillenormand] x[MmePontmercy]
+ x[MlleVaubois] x[LtGillenormand] x[Marius] x[BaronessT] x[Mabeuf]
+ x[Enjolras] x[Combeferre] x[Prouvaire] x[Feuilly] x[Courfeyrac] x[Bahorel]
+ x[Bossuet] x[Joly] x[Grantaire] x[MotherPlutarch] x[Gueulemer] x[Babet]
+ x[Claquesous] x[Montparnasse] x[Toussaint] x[Child1] x[Child2] x[Brujon]
+ x[MmeHucheloup]
+End

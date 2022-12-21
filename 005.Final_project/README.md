@@ -28,7 +28,7 @@
 
 
 ### References:
-- 1. [The View from Taiwan](https://michaelturton.blogspot.com/2008/02/gerrymandering.html) Gerrymandering? (n.d.)
+- 1. [The View from Taiwan](https://michaelturton.blogspot.com/2008/02/gerrymandering.html) Turton, M. (n.d.). Gerrymandering?
 - 2. [Legislative Yuan constituencies in Taichung City](https://en.wikipedia.org/wiki/Legislative_Yuan_constituencies_in_Taichung_City) Wikimedia Foundation. (2022, January 9). Legislative Yuan constituencies in Taichung City. Wikipedia
 - 3. [Gerrymandering wiki](https://en.wikipedia.org/wiki/Gerrymandering) Wikimedia Foundation. (2022, December 15). Gerrymandering. Wikipedia
 - 4. [A Model of Contiguity for Spatial Unit Allocation](https://onlinelibrary.wiley.com/doi/10.1111/j.1538-4632.2005.00605.x) Shirabe, T. (n.d.). A model of contiguity for Spatial Unit Allocation - Wiley Online Library.

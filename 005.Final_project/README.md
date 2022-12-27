@@ -1,4 +1,4 @@
-# Final_project
+# Taichung gerrymnandering district rearrangment analysis
 
 ## This file includes:
 

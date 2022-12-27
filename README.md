@@ -18,7 +18,7 @@ This file is related to the course I registered for in 2022 Fall at UIUC ISE M.S
 
 
 ### 003.Project(1/2): **$\textcolor{blue}{Taichung\ Gerrymnandering\ District\ Rearrangment\ Analysis}$**
-> __Note__ [detail](https://github.com/ollill0823/101.UIUC_MS_IE-532-Analysis-of-Network-Data/tree/main/005.Final_project)
+> __Note__ [Detail](https://github.com/ollill0823/101.UIUC_MS_IE-532-Analysis-of-Network-Data/tree/main/005.Final_project)
 - [Code here](https://nbviewer.org/github/ollill0823/101.UIUC_MS_IE-532-Analysis-of-Network-Data/blob/main/005.Final_project/IE532_Final_Group_Project_1216.ipynb)
 - I choose the [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering) problem for my final project. There were some [rumors](https://michaelturton.blogspot.com/2008/02/gerrymandering.html) about several districts experiencing unbiased re-arrangement in Taiwan 20 years ago. The second district in Taichung is one of the most apparent examples. The district is weird in Taiwan because it connects to coastal areas, urban residential areas, and mountain areas. Our goal is to use **gurobi** to find the optimal distribution, and then, compared it with the current situation. if the simulation meets our expectations, we can suggest the rumor is convincible. Also, we can assume if we can control the re-arrangement, how we can draw to win the best legislator votes. We will use the 2018 legislator votes as our dataset, and inside the analysis, we will classify the votes into two major groups: [the DPP and the KMT party](https://en.wikipedia.org/wiki/Legislative_Yuan_constituencies_in_Taichung_City).
    - **Results**:

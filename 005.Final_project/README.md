@@ -1,4 +1,4 @@
-# Taichung gerrymnandering district rearrangement analysis
+# Taichung Gerrymandering district rearrangement analysis
 
 ## This file includes:
 

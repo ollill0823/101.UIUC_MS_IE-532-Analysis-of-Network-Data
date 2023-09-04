@@ -17,7 +17,7 @@ This file is related to the course I registered for in 2022 Fall at UIUC ISE M.S
 
 
 
-### 003.Project(1/2): **$\textcolor{blue}{Taichung\ Gerrymnandering\ District\ Rearrangment\ Analysis}$**
+### 003.Project(1/2): **$\textcolor{blue}{Taichung\ Gerrymnandering\ District\ Rearrangement\ Analysis}$**
 > __Note__ [Detail](https://github.com/ollill0823/101.UIUC_MS_IE-532-Analysis-of-Network-Data/tree/main/005.Final_project)
 - [Code](https://nbviewer.org/github/ollill0823/101.UIUC_MS_IE-532-Analysis-of-Network-Data/blob/main/005.Final_project/IE532_Final_Group_Project_1216.ipynb)
 - [Powerpoint](https://docs.google.com/presentation/d/18roPlrS2RoUHTnslhgbbpIorgzdhpDbA/edit?usp=share_link&ouid=117434447847034760525&rtpof=true&sd=true)
